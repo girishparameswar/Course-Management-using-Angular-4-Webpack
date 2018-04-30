@@ -1,0 +1,35 @@
+#app {
+    font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #4d4d4d;
+    min-width: 550px;
+    max-width: 850px;
+    margin: 0 auto;
+}
+
+a.active {
+    color: orange;
+}
+
+nav {
+    padding-top: 20px;
+}
+
+#tile {
+    background-color: lightskyblue;
+    opacity: 30%;
+    height: 40px;
+    text-decoration-color: black;
+    text-align: center;
+}
+
+.left {
+padding-top:2%;
+margin:1%;
+}
+
+.loading {
+    color:black;
+    font-size: 20px;
+    position: relative;
+    left:40%;
+}
