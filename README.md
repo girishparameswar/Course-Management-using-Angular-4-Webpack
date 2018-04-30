@@ -1,1 +1,1 @@
-# Course-Management-using-Angular-4-Webpack
+# Course-Management-using-React-Redux
